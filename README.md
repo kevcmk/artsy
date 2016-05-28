@@ -7,10 +7,9 @@ Requirements
 
 OpenCV Setup on Mac
 ======
-asd
-`$ brew install homebrew/science/opencv3 pkg-config`
-`$ cd ubbles`
-`$ make`
-`$ ./ubbles`
+`$ brew install homebrew/science/opencv3 pkg-config`  
+`$ cd ubbles`  
+`$ make`  
+`$ ./ubbles`  
 
 ![alt tag](http://i.imgur.com/P4wEKau.png)
